@@ -1,0 +1,3 @@
+C:/github/lab1/cmake-build-debug/CMakeFiles/lab1.dir
+C:/github/lab1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/github/lab1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
