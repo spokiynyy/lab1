@@ -5,7 +5,7 @@
 #include <math.h>
 
 double calculateExpression(double x, double y, double z) {
-    double result = tan(cos(x)) + (4 * sin(x)) / cos(y) + sqrt(y * z);
+    double result = (3 * pow(x, 2) + 1) / (5 * y) + (2 * tan(x + 1)) / (y - 2);
     return result;
 }
 
@@ -19,3 +19,5 @@ int main() {
 
     return 0;
 }
+
+
